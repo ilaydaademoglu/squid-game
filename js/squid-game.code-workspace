@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "squid-game",
+			"path": ".."
+		},
+		{
+			"path": "../../../../Downloads/squid_game_doll"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "squid-game"
+	}
+}
